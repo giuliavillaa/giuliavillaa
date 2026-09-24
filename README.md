@@ -34,5 +34,4 @@ giulyyvilla@gmail.com
 | [ecommerce-churn-prediction](https://github.com/giuliavillaa/ecommerce-churn-prediction) | Customer churn prediction with XGBoost, and what the model keys on once you look |
 | [planisuss-simulation](https://github.com/giuliavillaa/planisuss-simulation) | Agent-based ecosystem simulation where population cycles emerge without being encoded |
 | [wilson-cowan-dynamics](https://github.com/giuliavillaa/wilson-cowan-dynamics) | Mean-field analysis of neural population activity: nullclines, fixed points, and the bifurcation into a limit cycle |
-| [lego](https://github.com/giuliavillaa/lego) | DA COMPLETARE |
 | [giuliavillaa.github.io](https://github.com/giuliavillaa/giuliavillaa.github.io) | This portfolio, built by hand with HTML, CSS and a little canvas |
