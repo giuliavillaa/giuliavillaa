@@ -8,10 +8,9 @@ learning, computer vision and NLP, next to cognitive psychology, human-system
 interaction, AI ethics and law. The master builds on that with interpretability
 and human-AI interaction.
 
-So most of what you will find here is a model plus the part that usually gets
-skipped: what it actually keys on, where it turns out to be unfair, and what the
-headline number does not mean. Two years of tutoring beginners taught me to
-explain all of it without jargon, which is the other half of the job.
+I’m interested in the engineering and system architecture required to make AI 
+reliable where the stakes are high—from diagnostic pipelines in healthcare to 
+resource tracking in sustainability.
 
 I moved from Italy to Denmark to study, and I intend to build my career here.
 
