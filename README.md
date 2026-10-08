@@ -15,7 +15,7 @@ resource tracking in sustainability.
 I moved from Italy to Denmark to study, and I intend to build my career here.
 
 **Looking for a student job in the Copenhagen area, 15 to 20 hours a week.**
-EU citizen, no work permit needed, learning Danish.
+EU citizen, CPR number, learning Danish.
 
 [Portfolio](https://giuliavillaa.github.io) &nbsp;·&nbsp;
 [LinkedIn](https://www.linkedin.com/in/giulia-villa2203) &nbsp;·&nbsp;
