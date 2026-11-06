@@ -9,7 +9,7 @@ interaction, AI ethics and law. The master builds on that with interpretability
 and human-AI interaction.
 
 I’m interested in the engineering and system architecture required to make AI 
-reliable where the stakes are high—from diagnostic pipelines in healthcare to 
+reliable where the stakes are high, from diagnostic pipelines in healthcare to 
 resource tracking in sustainability.
 
 I moved from Italy to Denmark to study, and I intend to build my career here.
@@ -34,3 +34,5 @@ giulyyvilla@gmail.com
 | [planisuss-simulation](https://github.com/giuliavillaa/planisuss-simulation) | Agent-based ecosystem simulation where population cycles emerge without being encoded |
 | [wilson-cowan-dynamics](https://github.com/giuliavillaa/wilson-cowan-dynamics) | Mean-field analysis of neural population activity: nullclines, fixed points, and the bifurcation into a limit cycle |
 | [giuliavillaa.github.io](https://github.com/giuliavillaa/giuliavillaa.github.io) | This portfolio, built by hand with HTML, CSS and a little canvas |
+
+Two more agent projects are on the [portfolio](https://giuliavillaa.github.io/#projects), with no public repository yet: **Kontant**, an accounts-receivable teammate for Danish creative agencies with a read-only validator that checks every draft before a person approves it, and **ShopMate**, a buying agent a small fashion shop shares in Slack.
